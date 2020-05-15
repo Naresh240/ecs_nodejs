@@ -41,6 +41,8 @@ Click on Get Started
 Click on Configure
 -------
 ![3](https://user-images.githubusercontent.com/58024415/82077424-06036700-96fd-11ea-85ea-b64dd67f0c46.png)
+Click on Update
+----
 ![4](https://user-images.githubusercontent.com/58024415/82077443-14518300-96fd-11ea-8dfb-c540a8c0e9e0.png)
 ![5](https://user-images.githubusercontent.com/58024415/82077454-17e50a00-96fd-11ea-908d-2326935b0198.png)
 ![6](https://user-images.githubusercontent.com/58024415/82077458-1b789100-96fd-11ea-9bbd-a245c2ca4ea3.png)
