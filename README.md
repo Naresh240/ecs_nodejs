@@ -35,6 +35,8 @@ Now open ECS and deploy Application
 Goto ECS Service
 
 ![1](https://user-images.githubusercontent.com/58024415/82076932-2da5ff80-96fc-11ea-90d1-2868e91a877e.png)
+Click on Get Started
+-------
 ![2](https://user-images.githubusercontent.com/58024415/82077397-f8e67800-96fc-11ea-86e7-4d5e37a3aaa9.png)
 ![3](https://user-images.githubusercontent.com/58024415/82077424-06036700-96fd-11ea-85ea-b64dd67f0c46.png)
 ![4](https://user-images.githubusercontent.com/58024415/82077443-14518300-96fd-11ea-8dfb-c540a8c0e9e0.png)
