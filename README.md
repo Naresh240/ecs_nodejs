@@ -41,6 +41,9 @@ Goto ECS Service
 ![5](https://user-images.githubusercontent.com/58024415/82077454-17e50a00-96fd-11ea-908d-2326935b0198.png)
 ![6](https://user-images.githubusercontent.com/58024415/82077458-1b789100-96fd-11ea-9bbd-a245c2ca4ea3.png)
 ![7](https://user-images.githubusercontent.com/58024415/82077465-1ddaeb00-96fd-11ea-9380-e640d8201772.png)
+
+Review Launch Status
+
 ![8](https://user-images.githubusercontent.com/58024415/82077469-1fa4ae80-96fd-11ea-82fb-6f144bca7e5c.png)
 
 Click on Service
