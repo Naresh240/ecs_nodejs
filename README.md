@@ -53,6 +53,8 @@ Click on Save
 Click on Next
 ------
 ![7](https://user-images.githubusercontent.com/58024415/82077465-1ddaeb00-96fd-11ea-9380-e640d8201772.png)
+Click on Next
+------
 
 Review Launch Status
 ------
