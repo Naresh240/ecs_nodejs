@@ -44,23 +44,33 @@ Click on Configure
 Click on Update
 ----
 ![4](https://user-images.githubusercontent.com/58024415/82077443-14518300-96fd-11ea-8dfb-c540a8c0e9e0.png)
+Click on Save
+------
 ![5](https://user-images.githubusercontent.com/58024415/82077454-17e50a00-96fd-11ea-908d-2326935b0198.png)
+Click on Save
+------
 ![6](https://user-images.githubusercontent.com/58024415/82077458-1b789100-96fd-11ea-9bbd-a245c2ca4ea3.png)
+Click on Next
+------
 ![7](https://user-images.githubusercontent.com/58024415/82077465-1ddaeb00-96fd-11ea-9380-e640d8201772.png)
 
 Review Launch Status
+------
 
 ![8](https://user-images.githubusercontent.com/58024415/82077469-1fa4ae80-96fd-11ea-82fb-6f144bca7e5c.png)
 
 Click on Service
+--------
 
 ![9](https://user-images.githubusercontent.com/58024415/82077646-65617700-96fd-11ea-96b6-8f4429d2e61c.png)
 
 Goto LoadBalancer in EC2 service and copy DNS
+-------
 
 ![10](https://user-images.githubusercontent.com/58024415/82077781-9e99e700-96fd-11ea-9371-963269bfb9c2.png)
 
 Goto WebUI and Give as shown below
+-------
 
     http://ec2co-ecsel-h1vjes3arngr-417700232.us-west-2.elb.amazonaws.com:5000/
 
