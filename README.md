@@ -38,6 +38,8 @@ Goto ECS Service
 Click on Get Started
 -------
 ![2](https://user-images.githubusercontent.com/58024415/82077397-f8e67800-96fc-11ea-86e7-4d5e37a3aaa9.png)
+Click on Configure
+-------
 ![3](https://user-images.githubusercontent.com/58024415/82077424-06036700-96fd-11ea-85ea-b64dd67f0c46.png)
 ![4](https://user-images.githubusercontent.com/58024415/82077443-14518300-96fd-11ea-8dfb-c540a8c0e9e0.png)
 ![5](https://user-images.githubusercontent.com/58024415/82077454-17e50a00-96fd-11ea-908d-2326935b0198.png)
