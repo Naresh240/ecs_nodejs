@@ -75,5 +75,3 @@ Goto WebUI and Give as shown below
 -------
 
     http://ec2co-ecsel-h1vjes3arngr-417700232.us-west-2.elb.amazonaws.com:5000/
-
-![11](https://user-images.githubusercontent.com/58024415/82077951-ee78ae00-96fd-11ea-85ef-25b6c1a182e9.png)
